@@ -1,0 +1,33 @@
+/*.navbar-expand{-sm|-md|-lg|-xl}*/
+
+#stage{
+	background: url("header.jpg") center center no-repeat;
+	background-size: cover;
+	display: flex;
+	height: 100%;
+	/*width: 1110px;*/
+	margin-top: 10px;
+	text-align: center;
+}
+/*.btn-primary{
+	font-family: monospace,serif;
+	position: relative;
+	margin-top: 550px;
+	margin-left: 450px;
+}
+*/
+#startlink{
+	margin-bottom: 90px;
+	border-radius: 20px;
+}
+#startlink:hover{
+	background-color: orange;
+}
+kbd{
+	margin-bottom: 50px;
+}
+#starttext{
+	color: white;
+	margin-top: 50px;
+	margin-bottom: 150px;
+}
